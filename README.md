@@ -20,8 +20,8 @@ This is a solution to the [Fylo dark theme landing page challenge on Frontend Me
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Adarshshanbhag5/FrontendMentor-Flyo-landing-page](https://github.com/Adarshshanbhag5/FrontendMentor-Flyo-landing-page)
+- Live Site URL: [https://thirsty-ritchie-154930.netlify.app/](https://thirsty-ritchie-154930.netlify.app/)
 
 ## My process
 
